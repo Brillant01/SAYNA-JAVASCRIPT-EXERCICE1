@@ -7,3 +7,4 @@ console.log(first)
 let last = fruits[fruits.length - 1]
 console.log(last)
 // Orange
+   
